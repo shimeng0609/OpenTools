@@ -8,7 +8,7 @@
    <Title>OpenTools</Title>
    <Version>1.0.2</Version>
    <Company>Dotnet Dancer</Company>
-   <PackageLicenseFile>LICENSE</PackageLicenseFile>
+   <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
    <RepositoryUrl>https://gitee.com/dreamer_j/open-tools.git</RepositoryUrl>
    <SignAssembly>False</SignAssembly>
